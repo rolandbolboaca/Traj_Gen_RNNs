@@ -1,0 +1,6 @@
+Latest code runs on PC!!!
+
+1. SL, HU, RNN vs ALL: Trajectory_EXP_SL_HU_MODELS: LAPTOP
+2. Expaanding area from center: Trajectory_Expanding_Area: LPATOP 
+3. Train-Test-Size: Trajectory_TRAIN_TEST_SIZE: LAPTOP
+4. Adaptive k, LSTM, GRU: Traj_exp: PC

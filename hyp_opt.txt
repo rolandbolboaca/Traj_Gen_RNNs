@@ -1,0 +1,1453 @@
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.0001, epochs = 25
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': True, 'LR': 0.0001, 'EPOCHS': 25}
+Best model found with loss:  0.0019075744808119527
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.0001, epochs = 50
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': True, 'LR': 0.0001, 'EPOCHS': 50}
+Best model found with loss:  0.0005226816937100253
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.0001, epochs = 75
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': True, 'LR': 0.0001, 'EPOCHS': 75}
+Best model found with loss:  0.00047849804271720705
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.0001, epochs = 100
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': True, 'LR': 0.0001, 'EPOCHS': 100}
+Best model found with loss:  0.00047832720645233067
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.001, epochs = 25
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.001, epochs = 50
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.001, epochs = 75
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.001, epochs = 100
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': True, 'LR': 0.001, 'EPOCHS': 100}
+Best model found with loss:  0.00047832720645233067
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.01, epochs = 25
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.01, epochs = 50
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.01, epochs = 75
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.01, epochs = 100
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': True, 'LR': 0.01, 'EPOCHS': 100}
+Best model found with loss:  0.00047832720645233067
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.1, epochs = 25
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.1, epochs = 50
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.1, epochs = 75
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = True, LR = 0.1, epochs = 100
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': True, 'LR': 0.1, 'EPOCHS': 100}
+Best model found with loss:  0.00047832720645233067
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.0001, epochs = 25
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': False, 'LR': 0.0001, 'EPOCHS': 25}
+Best model found with loss:  5.9598254589195355e-05
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.0001, epochs = 50
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': False, 'LR': 0.0001, 'EPOCHS': 50}
+Best model found with loss:  1.9488161021454813e-05
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.0001, epochs = 75
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': False, 'LR': 0.0001, 'EPOCHS': 75}
+Best model found with loss:  1.61502965441666e-05
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.0001, epochs = 100
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': False, 'LR': 0.0001, 'EPOCHS': 100}
+Best model found with loss:  1.6065638252656055e-05
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.001, epochs = 25
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.001, epochs = 50
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.001, epochs = 75
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.001, epochs = 100
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': False, 'LR': 0.001, 'EPOCHS': 100}
+Best model found with loss:  1.6065638252656055e-05
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.01, epochs = 25
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.01, epochs = 50
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.01, epochs = 75
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.01, epochs = 100
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': False, 'LR': 0.01, 'EPOCHS': 100}
+Best model found with loss:  1.6065638252656055e-05
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.1, epochs = 25
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.1, epochs = 50
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.1, epochs = 75
+Training LSTM model with 32 LSTM cells, 8 batch size, stateful = False, LR = 0.1, epochs = 100
+Best Hyperparameters:  {'LSTM_cells': 32, 'seq_len': 25, 'batch_size': 8, 'stateful': False, 'LR': 0.1, 'EPOCHS': 100}
+Best model found with loss:  1.6065638252656055e-05
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.0001, epochs = 25
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.0001, epochs = 50
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.0001, epochs = 75
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.0001, epochs = 100
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.001, epochs = 25
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.001, epochs = 50
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.001, epochs = 75
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.001, epochs = 100
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.01, epochs = 25
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.01, epochs = 50
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.01, epochs = 75
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.01, epochs = 100
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.1, epochs = 25
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.1, epochs = 50
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.1, epochs = 75
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = True, LR = 0.1, epochs = 100
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.0001, epochs = 25
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.0001, epochs = 50
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.0001, epochs = 75
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.0001, epochs = 100
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.001, epochs = 25
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.001, epochs = 50
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.001, epochs = 75
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.001, epochs = 100
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.01, epochs = 25
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.01, epochs = 50
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.01, epochs = 75
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.01, epochs = 100
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.1, epochs = 25
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.1, epochs = 50
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.1, epochs = 75
+Training LSTM model with 32 LSTM cells, 16 batch size, stateful = False, LR = 0.1, epochs = 100
+Training LSTM model with 32 LSTM cells, 32 batch size, stateful = True, LR = 0.0001, epochs = 25
+
+
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  6.864933746827664e-05
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 100}
+Best model found with loss:  6.47075639840008e-05
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.1, 'EPOCHS': 100}
+Best model found with loss:  6.46348594803754e-05
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 16 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 32 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 48, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  6.0032782962657576e-05
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 48, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.01, 'EPOCHS': 25}
+Best model found with loss:  6.0031705441725626e-05
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 48 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 64, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  5.94116559246e-05
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 64, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.01, 'EPOCHS': 25}
+Best model found with loss:  5.9402750629904274e-05
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 64, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.1, 'EPOCHS': 25}
+Best model found with loss:  5.9376734596080975e-05
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 64 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 80 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 96 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 1, 'cells': 112, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  4.002481110925338e-05
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 1 layers, 112 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  6.996309320902021e-05
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 50}
+Best model found with loss:  6.741343996212008e-05
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  6.251648821801949e-05
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.01, 'EPOCHS': 25}
+Best model found with loss:  6.243665015421905e-05
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  6.037906626157822e-05
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.01, 'EPOCHS': 25}
+Best model found with loss:  6.024153015910969e-05
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 16, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.5, 'EPOCHS': 25}
+Best model found with loss:  6.0231592282395044e-05
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 16 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 32, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  5.967974540034817e-05
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 32, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 50}
+Best model found with loss:  5.146363105212862e-05
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 32, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.01, 'EPOCHS': 50}
+Best model found with loss:  5.143869794178594e-05
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 32, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.5, 'EPOCHS': 50}
+Best model found with loss:  5.1336410625123284e-05
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 32, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  4.885181165106735e-05
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 32 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 48, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.001, 'EPOCHS': 25}
+Best model found with loss:  4.495841413996909e-05
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Best Hyperparameters:  {'layers': 2, 'cells': 48, 'seq_len': 10, 'batch_size': 8, 'stateful': [True], 'LR': 0.01, 'EPOCHS': 25}
+Best model found with loss:  4.4805773146212534e-05
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 48 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 64 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 80 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 96 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 48 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 64 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 80 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 96 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells, 112 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 2 layers, 112 LSTM cells,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 16 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 64 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 80 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 96 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 112 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 32 LSTM cells 2, 8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 16 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 32 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.001, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.01, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 25, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 50, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 75, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.1, epochs = 100, seq_len = 10
+Training LSTM model with 3 layers, 16 LSTM cells, 48 LSTM cells 2, 48 LSTM cells 3,  8 batch size, LR = 0.5, epochs = 25, seq_len = 10
+
+ 
